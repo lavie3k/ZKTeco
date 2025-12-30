@@ -31,3 +31,10 @@ You will now be able to access the menu and clear the administrator password.
 #### [Vuln 2] RCE via USB
 
 - https://www.synacktiv.com/advisories/vulnerable-upgrade-mechanism-in-zkteco-f18-device
+
+#### [Vuln 3] Unauthorized access via TCP port 4370
+
+```
+python simple.py -h
+python simple.py -a 192.168.1.30
+```
