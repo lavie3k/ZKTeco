@@ -1,0 +1,31 @@
+{
+  "devices": [
+    {
+      "ip": "192.168.1.30",
+      "name": "Máy chấm công 1",
+      "location": "Hà Nội",
+      "status": "Hoạt động",
+      "date_installed": "29/06/2023",
+      "date_expired": "01/04/2025",
+      "notes": "Máy chấm công 1"
+    },        
+    {
+      "ip": "192.168.1.31",
+      "name": "Máy chấm công 2",
+      "location": "Hà Nội",
+      "status": "Hoạt động",
+      "date_installed": "29/06/2023",
+      "date_expired": "01/04/2025",
+      "notes": "Máy chấm công 2"
+    },
+    {
+      "ip": "192.168.1.32",
+      "name": "Máy chấm công 3",
+      "location": "Hà Nội",
+      "status": "Hoạt động",
+      "date_installed": "29/06/2023",
+      "date_expired": "01/04/2025",
+      "notes": "Máy chấm công 3"
+    }
+  ]
+}
